@@ -25,7 +25,7 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          ACCESS_TOKEN: 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
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY_NAME: Sirzhao1314/1314zhao.github.io
           BRANCH: pages
           FOLDER: public
