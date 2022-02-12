@@ -8,3 +8,4 @@ categories:
 ---
 
 # 安装JDK环境
+oooooo
