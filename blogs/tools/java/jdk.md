@@ -9,3 +9,5 @@ categories:
 
 # 安装JDK环境
 oooooo
+
+![image-20220212224504995](https://gitee.com/1314zhao/md-img/raw/master/img/image-20220212224504995.png)
