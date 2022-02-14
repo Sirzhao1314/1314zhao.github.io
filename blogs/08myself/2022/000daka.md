@@ -5,10 +5,7 @@ tags:
  - 生活
 categories:
  - 生活
-keys:
- - 'flzx3qc' 
-sticky: 1   
-isShowComments: false 
+sticky: 1
 publish: true 
 ---
 
