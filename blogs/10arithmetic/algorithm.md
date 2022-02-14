@@ -4,7 +4,8 @@ date: 2022-02-12
 tags:
   - 数据结构和算法
 categories:
-  - 数据结构和算法
+  - 数据结构和算法 
+sidebar: true
 ---
 
 # 基础入门
