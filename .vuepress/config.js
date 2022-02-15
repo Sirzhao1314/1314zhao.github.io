@@ -20,6 +20,8 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
+    "editLinkText": '在 GitHub 上编辑此页！',
+    "sidebar": 'auto',// 自动形成侧边导航
     "nav": [
       {
         "text": "首页",
