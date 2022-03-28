@@ -1,10 +1,10 @@
 ---
-title: java标题
+title: JVM模型
 date: 2022-02-11
 tags:
-  - java 
+  - JVM 
 categories:
   - java
 ---
 
-java hello world          update
+![JVM模型](https://gitee.com/1314zhao/md-img/raw/master/img/JVM模型.png)
